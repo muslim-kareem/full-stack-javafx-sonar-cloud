@@ -9,8 +9,7 @@ public class BackendApplication {
         int x = 3;
         int y = 3;
         if((x - y) == 0){
-            System.out.println("XXXXX");
-            System.out.println("xxxxx");
+            System.getLogger("xxxxx");
         }
     }
 
