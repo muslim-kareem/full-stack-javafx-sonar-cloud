@@ -5,9 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BackendApplication {
-
-
-
     public void tbd(){
         int x = 3;
         int y = 3;
