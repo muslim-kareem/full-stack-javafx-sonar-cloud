@@ -5,14 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class BackendApplication {
-    public void tbd(){
-        int x = 3;
-        int y = 3;
-        if((x - y) == 0){
-            System.getLogger("xxxxx");
-        }
-    }
-
     public static void main(String[] args) {
 
         SpringApplication.run(BackendApplication.class, args);
